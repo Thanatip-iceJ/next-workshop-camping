@@ -6,5 +6,5 @@ type Links = {
 export const links: Links[] = [
   { label: "Profile", href: "/profile" },
   { label: "Favorites", href: "/favorites" },
-  { label: "Camps", href: "/camp" },
+  { label: "Camps", href: "/camps" },
 ];
